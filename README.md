@@ -4,15 +4,15 @@ Android mobile app used to check the real working of device sensors and generate
 ## Store
 <a href='https://play.google.com/store/apps/details?id=com.anu.developers3k.sensoroid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height="83" width="215" /></a>
 
-## Screenshots Ver. 1.7.0
+## Screenshots
 
-<img src="https://user-images.githubusercontent.com/18279724/60652145-3e8fae80-9e65-11e9-97df-93ee3a56032d.png" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60785894-2fb14080-a172-11e9-97ba-7b77183ce9ed.png" align="left" height="300" width="180" >
 
-<img src="https://user-images.githubusercontent.com/18279724/60652146-3f284500-9e65-11e9-8e07-fcb61825f876.png" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60785890-2f18aa00-a172-11e9-897b-c0855e41c9a6.png" align="left" height="300" width="180" >
 
-<img src="https://user-images.githubusercontent.com/18279724/60652147-3f284500-9e65-11e9-816d-5e67e7947a0c.png" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60785891-2f18aa00-a172-11e9-9262-f9772b9d9c17.png" align="left" height="300" width="180" >
 
-<img src="https://user-images.githubusercontent.com/18279724/60652148-3f284500-9e65-11e9-98ab-db2945e2f03e.png" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60785892-2f18aa00-a172-11e9-978a-7a68793f4e16.png" align="left" height="300" width="180" >
 <br/>
 <br/>
 <br/>
