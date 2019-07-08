@@ -28,22 +28,6 @@ Android mobile app used to check the real working of device sensors and generate
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/18279724/60652149-3fc0db80-9e65-11e9-8233-054cdffe1796.png" align="left" height="300" width="180" >
-<img src="https://user-images.githubusercontent.com/18279724/60652151-3fc0db80-9e65-11e9-98a7-87505b18f1ab.png" align="left" height="300" width="180" >
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Scope
 
