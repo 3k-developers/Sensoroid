@@ -78,3 +78,5 @@ Sensors helps in making your device more efficient and powerful. Sensoroid helps
 ★ Motion Acceleration Sensor<br/>
 
 and lots more...
+
+
